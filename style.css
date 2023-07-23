@@ -1,7 +1,8 @@
 body {
     font-family: sans-serif;
     background-image: linear-gradient(to bottom right, #68d1fe, #8BC34A);
-  }
+    background-repeat: no-repeat; 
+}
   
   div {
       background-color: #5598df;
